@@ -85,7 +85,7 @@ h1, h2, p { margin: 0; padding: 0; }
 .section-three { background: #000 url(../img/partition.jpg) no-repeat center; background-size: cover; padding: 6%; }
 .section-three .container { box-sizing: border-box; overflow: hidden; margin: 0 auto; max-width: 100%; padding: 5%; }
 .section-three h2 { font: 400 76px/80px 'Oswald', sans-serif; color: #fff; letter-spacing:; text-align: center; margin: 40px 0; text-transform: uppercase; }
-.section-three p { font: 400 16px/30px 'Quattrocento', sans-serif; color: #fff; width: 50%; margin: 0 auto; padding: 30px 0; border-bottom: 2px solid #fff; border-top: 2px solid #fff; }
+.section-three p { background-color: rgba(0,0,0,.7);font: 400 16px/30px 'Quattrocento', sans-serif; color: #fff; width: 50%; margin: 0 auto; padding: 30px 0; border-bottom: 2px solid #fff; border-top: 2px solid #fff; }
 .section-three .caption { margin-top: -6%; text-align: left; color: #fff; }
 .section-three a { color: #fff; }
 .section-three a:hover { color: #000; }
