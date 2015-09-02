@@ -64,7 +64,7 @@ Georgia, serif; margin: 15% auto;}
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 20% 0;no-repeat center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .haiti-col-xs-12 h2 {font: 70px/68px 'Playfair Display', Georgia,
@@ -95,7 +95,7 @@ serif; color: rgba(245, 217, 217, 0.81); text-transform: uppercase; text-align: 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 150px 0;no-repeat center;
-	background-size: cover;}
+	background-size: contain;}
 
 .part-col-xs-5 h2 { font: 400 76px/80px 'Oswald', sans-serif; color: #fff; letter-spacing:; text-align: center; margin: auto; text-transform: uppercase;}
 
@@ -109,7 +109,7 @@ serif; color: rgba(245, 217, 217, 0.81); text-transform: uppercase; text-align: 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 150px 0;no-repeat center;
-    background-size: cover;}
+    background-size: contain;}
 
 .cuba-col-xs-12 h2 {font:60px/75px
 'Alfa Slab One', cursive, sans-serif;color:#D5C049;   text-transform:uppercase; letter-spacing:1.25px; text-align:center; margin: auto 0;}
